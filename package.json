@@ -9,7 +9,7 @@
   "author": "Jayadeep Yarlagadda",
   "license": "ISC",
   "dependencies": {
-    "mountebank": "^2.2.0",
+    "mountebank": "^2.7.0",
     "node-fetch": "^2.6.0"
   }
 }
